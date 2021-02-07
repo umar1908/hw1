@@ -12,11 +12,12 @@ using namespace std;
 // #include <bitset>
 
 int main(){
-  system("chcp 1251"); //для корректного отображения кирилицы
+  system("chcp 1251"); //Г¤Г«Гї ГЄГ®Г°Г°ГҐГЄГІГ­Г®ГЈГ® Г®ГІГ®ГЎГ°Г Г¦ГҐГ­ГЁГї ГЄГЁГ°ГЁГ«ГЁГ¶Г»
   cout<<endl;
 //changes
 
  cout<<"Hellow World!"; // change 1
  cout<<"Hellow World!"; //change 2
+   cout<<"Hellow World!"; //change 3 (from site)
 
 }
