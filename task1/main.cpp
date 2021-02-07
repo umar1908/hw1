@@ -14,6 +14,6 @@ using namespace std;
 int main(){
   system("chcp 1251"); //для корректного отображения кирилицы
   cout<<endl;
-
+//changes
 
 }
