@@ -30,3 +30,5 @@ int main(){
 //change something
 
 //change something in master again to Rebase it on the next step
+
+//add smth new to master to cause conflict with new branch
